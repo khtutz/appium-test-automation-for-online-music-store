@@ -12,8 +12,7 @@ public class ProductPurchasingE2ETestCase extends AndroidBaseTest {
 	/*
 	 * Prerequesite:
 	 * User must have a valid account
-	 * User needs to be logged in
-	 * User must have payment information and profile data
+	 * User needs to be logged inta
 	 */
 	@Test
 	public void testProductPurchaseE2E() {
